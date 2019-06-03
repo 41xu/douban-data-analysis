@@ -3,6 +3,8 @@ Python Data Analysis 's project.
 
 > Based on Python 3.6
 
+我用Django把这个简陋的推荐系统实现成了[Web项目](https://github.com/41xu/MovieRecommendWeb)啦！
+
 ## 函数介绍
 
 Spide.py为爬取电影数据函数，运行时会有IP被封的风险
